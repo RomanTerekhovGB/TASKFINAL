@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TASKFINAL/1.0.0": {
+        "runtime": {
+          "TASKFINAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TASKFINAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
